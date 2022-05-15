@@ -2,8 +2,10 @@
 
 Semester Project of course *Introduction to Machine Learning* (CompSci 289A) at UC Berkeley with Prof. Jonathan Shewchuk, Spring 2022
 
+**Documents**:
 - [Final Report](https://github.com/6shun/mbti-classifier/blob/main/doc/Final_Project_Report.pdf)
 - [Presentation Slides](https://github.com/6shun/mbti-classifier/blob/main/doc/Final_Presentation_Slides.pdf)
+
 
 This repo is structured as following:
 
