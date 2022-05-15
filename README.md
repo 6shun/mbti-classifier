@@ -6,9 +6,6 @@ Semester Project of course *Introduction to Machine Learning* (CompSci 289A) at 
 - [Final Report](https://github.com/6shun/mbti-classifier/blob/main/doc/Final_Project_Report.pdf)
 - [Presentation Slides](https://github.com/6shun/mbti-classifier/blob/main/doc/Final_Presentation_Slides.pdf)
 
-Classifiers Comparison Visualization:
-![](https://github.com/6shun/mbti-classifier/blob/main/result/test_scores.png)
-
 
 This repo is structured as following:
 
