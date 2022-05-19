@@ -13,7 +13,7 @@ This repo is structured as following:
 .
 ├── data                            
 │    ├── cleaned_mbti_train.csv           # Cleaned train data
-│    ├── class16_mbti_map.npy             # Cleaned test data
+│    ├── cleaned_mbti_test.csv            # Cleaned test data
 │    └── class16_mbti_map.npy           
 ├── docs                                 
 │    ├── Final_Project_Report.pdf         # Final Project Report
@@ -21,5 +21,6 @@ This repo is structured as following:
 ├── notebooks                             # Collection of notebooks
 │    ├── bestmodels.ipynb                 # Best model of each classifier, final parameter
 │    └── bestmodels_include_tuning.ipynb  # Best model of each classifier, tuning process
+├── result                                # results: scores, cm, plot
 └── README.md
 ```
