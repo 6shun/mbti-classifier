@@ -7,7 +7,8 @@ Semester Project of course *Introduction to Machine Learning* (CompSci 289A) at 
 - [Presentation Slides](https://github.com/6shun/mbti-classifier/blob/main/doc/Final_Presentation_Slides.pdf)
 
 **Pipeline Visualization**
-![pipeline](result/pipeline.png)
+
+<img src="result/pipeline.png" width="300">
 
 ## Dataset:
 Kaggle dataset [(MBTI) Myers-Briggs Personality Type Dataset](https://www.kaggle.com/datasets/datasnaek/mbti-type), originally collected through PersonalityCafe forum.
