@@ -1,6 +1,6 @@
 #  Myers-Briggs Personality Type Prediction with Text Classification
 
-Semester Project of course *Introduction to Machine Learning* (CompSci 289A) at UC Berkeley with Prof. Jonathan Shewchuk, Spring 2022
+Semester Project of course *Introduction to Machine Learning* ([CompSci 289A](https://people.eecs.berkeley.edu/~jrs/189/)) at UC Berkeley with Prof. Jonathan Shewchuk, Spring 2022
 
 ## Documents:
 - [Final Report](https://github.com/6shun/mbti-classifier/blob/main/doc/Final_Project_Report.pdf)
