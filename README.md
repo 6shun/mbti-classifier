@@ -6,13 +6,25 @@ Semester Project of course *Introduction to Machine Learning* ([CompSci 289A](ht
 - [Final Report](https://github.com/6shun/mbti-classifier/blob/main/doc/Final_Project_Report.pdf)
 - [Presentation Slides](https://github.com/6shun/mbti-classifier/blob/main/doc/Final_Presentation_Slides.pdf)
 
+
 **Pipeline Visualization**
 
 <img src="result/pipeline.png" width="300">
 
+
+
+
+## Results:
+**Metrics of classifiers on test data**
+
+<img src="result/test_scores.png" width="500">
+
 **Confusion Matrix of best classifier, LDA**
 
-<img src="result/confusion_matrix_lda.png" width="500">
+<img src="result/confusion_matrix_lda.png" width="600">
+
+
+
 
 ## Dataset:
 Kaggle dataset [(MBTI) Myers-Briggs Personality Type Dataset](https://www.kaggle.com/datasets/datasnaek/mbti-type), originally collected through PersonalityCafe forum.
