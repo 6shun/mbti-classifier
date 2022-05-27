@@ -12,7 +12,7 @@ Semester Project of course *Introduction to Machine Learning* ([CompSci 289A](ht
 
 **Confusion Matrix of best classifier, LDA**
 
-<img src="result/confusion_matrix_lda.png" width="300">
+<img src="result/confusion_matrix_lda.png" width="500">
 
 ## Dataset:
 Kaggle dataset [(MBTI) Myers-Briggs Personality Type Dataset](https://www.kaggle.com/datasets/datasnaek/mbti-type), originally collected through PersonalityCafe forum.
