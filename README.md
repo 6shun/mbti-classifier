@@ -17,7 +17,7 @@ Semester Project of course *Introduction to Machine Learning* ([CompSci 289A](ht
 ## Results:
 **Metrics of classifiers on test data**
 
-<img src="result/test_scores.png" width="500">
+<img src="result/test_scores.png" width="800">
 
 **Confusion Matrix of best classifier, LDA**
 
